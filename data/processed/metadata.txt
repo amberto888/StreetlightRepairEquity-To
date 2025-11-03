@@ -1,0 +1,11 @@
+# Community Equity Scores Metadata
+
+**File:** community_equity_scores.csv
+**Source:** Derived from streetlight_requests.csv analysis
+**Creation Date:** Oct 29, 2025
+**Methods:** 
+  - Aggregated requests by community
+  - Calculated fast_rate (% resolved in 0-1 days)
+  - Calculated slow_rate (% taking >14 days) 
+  - Derived equity_score composite metric
+**Fields:** comm_code, comm_name, total_requests, fast_rate, slow_rate, equity_score
