@@ -1,0 +1,8 @@
+# Streetlight Requests Raw Data Metadata
+
+**File:** streetlight_requests.csv
+**Source:** City of Calgary Open Data - 311 Service Requests
+**Time Period:** 2024 calendar year
+**Original URL:** https://data.calgary.ca/Services-and-Amenities/311-Service-Requests/iahh-g8bj/about_data
+**Description:** Raw 311 service requests for streetlight issues
+**Processing:** Filtered for streetlight-related requests in 2024
