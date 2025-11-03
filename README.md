@@ -22,7 +22,7 @@ This project analyzes the equity of streetlight repair response times across Cal
 | `equity_score` | Composite score (0-100%) reflecting service equity | Percentage |
 
 # Coordinate Reference System & Data Formats
-- **Spatial Data CRS:** The community boundary data and resulting map use NAD83 / UTM zone 12N (EPSG:26912).
+- **Spatial Data CRS:** The community boundary data and resulting map use WGS 84 (EPSG:4326).
 - **Data Formats:** Source and processed data are provided as `.csv` files. The final map is provided as a `.png` image.
 
 # License and Citation
