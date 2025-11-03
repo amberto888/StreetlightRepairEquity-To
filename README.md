@@ -13,6 +13,7 @@ This project analyzes the equity of streetlight repair response times across Cal
 
 # Field Dictionary (for processed data)
 | Field Name | Description | Data Type |
+| :--- | :--- | :--- |
 | `comm_code` | 3-letter community code | Text |
 | `comm_name` | Full community name | Text |
 | `total_requests` | Total number of streetlight requests in 2024 | Integer |
