@@ -26,6 +26,6 @@ This project analyzes the equity of streetlight repair response times across Cal
 - **Data Formats:** Source and processed data are provided as `.csv` files. The final map is provided as a `.png` image.
 
 # License and Citation
-- **License:** This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). See the `LICENSE` file for details.
+- **License:** This work is dedicated to the public domain via the [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) license.
 - **How to Cite:**  
-  To, Amber. (2024). Streetlight Repair Equity Analysis [Data set and code]. GitHub. https://github.com/amberto888/StreetlightRepairEquity-To
+  To, Amber. (2025). Streetlight Repair Equity Analysis [Data set and code]. GitHub. https://github.com/amberto888/StreetlightRepairEquity-To
